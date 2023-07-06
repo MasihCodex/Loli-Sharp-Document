@@ -1,4 +1,4 @@
-<h1 align="center"><img align="center" img width="40" height="40"  src="/Pictures/LoliSharp.png"> Loli Sharp Language <img align="center" img width="40" height="40"  src="/Pictures/LoliSharp.png"></h1>
+<h1 align="center">Loli Sharp Language     <img align="center" img width="40" height="40"  src="/Pictures/LoliSharp.png"></h1>
 
 <br>
 <br>
