@@ -1,4 +1,4 @@
-<h1 align="center">Loli Sharp Language     <img align="center" img width="40" height="40"  src="/Pictures/LoliSharp.png"></h1>
+<h1 align="center">Loli Sharp Language     <img align="center" img width="40" height="40"  hspace="20"  src="/Pictures/LoliSharp.png"></h1>
 
 <br>
 <br>
@@ -109,3 +109,120 @@ Example:
   ```
 
 <br>
+
+# Function
+
+### Function-String
+
+OverView:
+  ```
+  Function [FunctionName]([Parameters]) as String
+  [
+    Return [StringValue]
+  ]
+
+  ```
+Example:
+  ```
+  Function HeyHello(FirstName as String,LastName as String) as String
+  [
+    Return $'Hello {FirstName} {LastName}'
+  ]
+  ```
+
+<br>
+
+### Function-Integer
+
+OverView:
+  ```
+  Function [FunctionName]([Parameters]) as Integer
+  [
+    Return [IntegerValue]
+  ]
+
+  ```
+Example:
+  ```
+  Function Calculator(NumberOne as Integer,NumberTwo as Integer) as Integer
+  [
+    Return NumberOne + NumberTwo
+  ]
+  ```
+
+<br>
+
+### Function-Double
+
+OverView:
+  ```
+  Function [FunctionName]([Parameters]) as Double
+  [
+    Return [DoubleValue]
+  ]
+
+  ```
+Example:
+  ```
+  Function Calculator(NumberOne as Double,NumberTwo as Double) as Double
+  [
+    Return NumberOne + NumberTwo
+  ]
+  ```
+
+<br>
+
+### Function-Boolean
+
+OverView:
+  ```
+  Function [FunctionName]([Parameters]) as Boolean
+  [
+    Return [BooleanValue]
+  ]
+
+  ```
+Example:
+  ```
+  Function RrturnTrue() as Boolean
+  [
+    Return True
+  ]
+  ```
+
+### Function-Void
+
+OverView:
+  ```
+  Function [FunctionName]([Parameters]) as Void
+  [
+    [Codes]
+  ]
+
+  ```
+Example:
+  ```
+  Function SeyHello() as Void
+  [
+    Alert('Hello')
+  ]
+  ```
+### Function-List
+
+OverView:
+  ```
+  Function [FunctionName]([Parameters]) as List
+  [
+    Return [ListArray]
+  ]
+
+  ```
+Example:
+  ```
+  Function [FunctionName]() as List
+  [
+    Var LoliVs as List<String> = {'LoliScript','LoliSharp'}
+
+    Return LoliVs
+  ]
+  ```
