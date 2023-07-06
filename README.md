@@ -120,7 +120,6 @@ OverView:
   [
     Return [StringValue]
   ]
-
   ```
 Example:
   ```
@@ -140,7 +139,6 @@ OverView:
   [
     Return [IntegerValue]
   ]
-
   ```
 Example:
   ```
@@ -160,7 +158,6 @@ OverView:
   [
     Return [DoubleValue]
   ]
-
   ```
 Example:
   ```
@@ -180,7 +177,6 @@ OverView:
   [
     Return [BooleanValue]
   ]
-
   ```
 Example:
   ```
@@ -198,7 +194,6 @@ OverView:
   [
     [Codes]
   ]
-
   ```
 Example:
   ```
@@ -215,7 +210,6 @@ OverView:
   [
     Return [ListArray]
   ]
-
   ```
 Example:
   ```
