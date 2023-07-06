@@ -1,4 +1,4 @@
-<h1 align="center">Loli Sharp Language</h1>
+<h1 align="center"><img align="center" img width="40" height="40"  src="Pictures/LoliSharpLogo.png"> Loli Sharp Language <img align="center" img width="40" height="40"  src="Pictures/LoliSharpLogo.png"></h1>
 
 <br>
 <br>
@@ -56,6 +56,8 @@
 
 <br>
 
+# Variable
+
 ### Variable-String
 
 OverView:
@@ -66,6 +68,9 @@ Example:
   ```
   Var LanguageName as String = 'Loli Sharp Language'
   ```
+
+<br>
+
 ### Variable-Integer
 
 OverView:
@@ -76,6 +81,8 @@ Example:
   ```
   Var LatestVersion as Integer = 1
   ```
+
+<br>
 
 ### Variable-Double
 
@@ -88,6 +95,8 @@ Example:
   Var FullLatestVersion as Double = 1.0.0
   ```
 
+<br>
+
 ### Variable-Boolean
 
 OverView:
@@ -98,3 +107,5 @@ Example:
   ```
   Var WithConpileCSharp as Boolean = True
   ```
+
+<br>
